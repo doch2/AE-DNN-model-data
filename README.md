@@ -12,3 +12,11 @@
 ## 저자
 한국디지털미디어고등학교 IT LAB **XOR**에 소속되어 있는 한국디지털미디어고등학교 20기 웹프로그래밍과 [여태건우](https://github.com/ytgw0), [유도희](http://dohui-portfolio.kro.kr), 남정원 학생이 작성하였습니다.  
 성균관대학교 글로벌융합학부 오하영 교수님께서 지도교수로 참여해주셨습니다.
+
+## 코드 관련 영상
+이미지 클릭 시 유튜브 동영상으로 연결됩니다.  
+<div align="center">
+<a href="https://www.youtube.com/watch?v=QDFqpbg-X_8"><img src="https://img.youtube.com/vi/QDFqpbg-X_8/maxresdefault.jpg" style="width:75%;"></a>  
+<br><br>  
+<a href="https://www.youtube.com/watch?v=LPxW1UFzx40"><img src="https://img.youtube.com/vi/LPxW1UFzx40/maxresdefault.jpg" style="width:75%;"></a>
+</div>
