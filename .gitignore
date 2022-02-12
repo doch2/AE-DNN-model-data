@@ -1,0 +1,6 @@
+stock_data/image_test/
+stock_data/image_train/
+
+.ipynb_checkpoints/
+
+*.DS_Store
