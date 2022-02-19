@@ -16,7 +16,7 @@
 ## 코드 관련 영상
 이미지 클릭 시 유튜브 동영상으로 연결됩니다.  
 <div align="center">
-<a href="https://www.youtube.com/watch?v=QDFqpbg-X_8"><img src="https://img.youtube.com/vi/QDFqpbg-X_8/maxresdefault.jpg" style="width:75%;"></a>  
+<a href="https://www.youtube.com/watch?v=fBZ8UDx8VZY"><img src="https://img.youtube.com/vi/fBZ8UDx8VZY/maxresdefault.jpg" style="width:75%;"></a>  
 <br><br>  
-<a href="https://www.youtube.com/watch?v=LPxW1UFzx40"><img src="https://img.youtube.com/vi/LPxW1UFzx40/maxresdefault.jpg" style="width:75%;"></a>
+<a href="https://www.youtube.com/watch?v=y8CM_OsbpVg"><img src="https://img.youtube.com/vi/y8CM_OsbpVg/maxresdefault.jpg" style="width:75%;"></a>
 </div>
