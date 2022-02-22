@@ -2,7 +2,7 @@
 논문 링크: (URL Link)
 
 본 Repository는 논문에 사용된 AE-DNN 모델의 생성에 사용한 데이터의 다운로드 & 전처리 코드를 모아놓았습니다.  
-유도희가 담당한 데이터 다운로드 & 전처리 코드, 여태건우가 담당한 인공지능 코드로 나누어 각 GitHub 계정에 Repository를 생성하였습니다.<br>  
+유도희가 담당한 [데이터 다운로드 & 전처리 코드](https://github.com/doch2/AE-DNN-model-data), 여태건우가 담당한 [인공지능 코드](https://github.com/ytgw0/AE_dnn-and-DNN_experiment)로 나누어 각 GitHub 계정에 Repository를 생성하였습니다.<br>  
 코드 작성시에 진행한 이전 Commit 내역은 별도의 Private Repository에 존재합니다.
 <div align="center"><img style="width:90%;" alt="code FlowChart" src="https://user-images.githubusercontent.com/30923566/153738292-51912299-d78e-4b8e-aece-9cd3437fd3a8.png"></div>
 
