@@ -13,6 +13,20 @@
 한국디지털미디어고등학교 IT LAB **XOR**에 소속되어 있는 한국디지털미디어고등학교 20기 웹프로그래밍과 [여태건우](https://github.com/ytgw0), [유도희](http://dohui-portfolio.kro.kr), 남정원 학생이 작성하였습니다.  
 성균관대학교 글로벌융합학부 오하영 교수님께서 지도교수로 참여해주셨습니다.
 
+## 출판된 논문에서 정확하지 않은 부분
+논문 출판과정에서 편집이 잘못되어, 현재 출판된 논문에서 정확하지 않은 곳이 몇 군데 있습니다.
+먼저 현재 논문에서 식(3)은 아래 왼쪽과 같이 표시되어 있는데, 이는 정확하지 않은 식이며 오른쪽 식이 정확한 식입니다.
+<div align="center"><img style="width:70%;" alt="수식" src="https://user-images.githubusercontent.com/30923566/167133372-339aa397-817e-4a3c-955d-ea253a24b96e.png"></div>
+
+다음으로 본문 상에서는 언급되어 있는 그림(8)이 논문안에는 포함되어있지 않은데, 그림(8)은 아래 사진이며 빠진 그림의 설명부분은 다음과 같습니다.
+
+
+<div align="center"><img style="width:70%;" alt="**Fig. 8** Accuracy graph of output value format diversification experiment" src="https://user-images.githubusercontent.com/30923566/167132214-6e7bb89b-4769-4f26-b0fd-71340a9c8ce2.png"><p>Fig. 8 Accuracy graph of output value format diversification experiment</div>
+
+위 그래프 그림 8를 해석하면 Output의 값이 점점 세분화 됨에 따라 전체적으로 정확도가 상승하는 것을 알 수 있었다.
+
+
+
 ## 코드 관련 영상
 이미지 클릭 시 유튜브 동영상으로 연결됩니다.  
 <div align="center">
