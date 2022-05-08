@@ -12,7 +12,7 @@ imageFolderPath = "stock_data/"
 stockDataFolderPath = "stock_data/stockPriceData/korea_kospi/kiwoom/"
 
 stockListWithoutEtn = pd.read_csv("stock_data/kospi_ticker_without_etn.csv")['종목코드']
-for ticker in stockListWithoutEtn:
+for ticker in stockListWithoutEtn: #티커 정보 전처리 ex) 5930 -> 005930
     newTicker = str(ticker)
     if len(newTicker) < 6:
         newTicker = ('0' * (6 - len(newTicker))) + newTicker
@@ -22,7 +22,7 @@ for ticker in stockListWithoutEtn:
     stockListWithoutEtn.iloc[index] = newTicker
 
 
-#주식 CSV 데이터 삭제
+#순수 회사 주식이 아닌 나머지 주식의 CSV 데이터 삭제
 dataKindList = os.listdir(stockDataFolderPath)
 for dataKind in dataKindList:
     stockDataList = os.listdir(stockDataFolderPath + dataKind + "/")
@@ -32,7 +32,7 @@ for dataKind in dataKindList:
             removeFile(stockDataFolderPath + dataKind + "/" + ticker)
 
 
-#주가 캔들차트 사진 삭제
+#순수 회사 주식이 아닌 나머지 주식의 주가 캔들차트 사진 삭제
 for dataKind in ['train', 'test']:
     for dateKind in ['10minute', '30minute', 'day', 'week', 'month']:
         chartPicList = os.listdir(imageFolderPath + "image_" + dataKind + "/" + dateKind + "Chart/" + dateKind + "Chart1/")
